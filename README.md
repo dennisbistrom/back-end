@@ -6,3 +6,5 @@ Vårt backendprojekt finns att klona härifrån
 En otrolig förbättring till vårt backendprojekt
 ### Nyaste ändringen i vscode
 Få se om source control funkar!
+### Jag skrev in user.name och user.email
+Hoppas commit funkar nu!
